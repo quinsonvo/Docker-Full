@@ -48,3 +48,13 @@ Update docker-compose.yml:
 ports:
       - "3000:3000"
 ```
+Note: Left port is port in root environtment, right port is port in container
+
+### 7. Run docker again
+```
+docker compose up -d
+```
+![7. Run Docker Image Again](RESULT_IMAGE/Step6_7.Add_map_port_and_run_docker_again.png)
+See result in localhost:3000
+![7. Run Docker Image Again](RESULT_IMAGE/Step7.png)
+### 8 
