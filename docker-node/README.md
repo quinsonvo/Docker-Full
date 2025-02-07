@@ -29,3 +29,11 @@ services:
     image: learning-docker/node:v1
     restart: unless-stopped
 ```
+
+### 4. Run docker image
+```
+docker compose up
+
+```
+![4. Run Docker Image](RESULT_IMAGE/Step4.Run_Docker_Image.png)
+
