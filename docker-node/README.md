@@ -41,3 +41,10 @@ docker compose up
 ```
 docker compose down
 ```
+
+### 6. App map port
+Update docker-compose.yml:
+```
+ports:
+      - "3000:3000"
+```
