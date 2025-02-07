@@ -37,3 +37,7 @@ docker compose up
 ```
 ![4. Run Docker Image](RESULT_IMAGE/Step4.Run_Docker_Image.png)
 
+### 5. Shutdown container
+```
+docker compose down
+```
